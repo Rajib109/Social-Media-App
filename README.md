@@ -36,6 +36,33 @@ This project is a full-stack social media web application 🌐 that has been dev
 - Update/Edit Profile Page User Data.
 
 
+### **SignUp/Register Page**  :
+
+![SignUp](https://github.com/Rajib109/Social-Media-App/blob/main/assets/signup.png?raw=true)
+
+### **Login Page**  :
+
+![Login](https://github.com/Rajib109/Social-Media-App/blob/main/assets/login.png?raw=true)
+
+
+### **Home Page :** 
+ 
+![Home1](https://github.com/Rajib109/Social-Media-App/blob/main/assets/home1.png?raw=true)
+
+![postShare](https://github.com/Rajib109/Social-Media-App/blob/main/assets/postshare.png?raw=true)
+
+![Home2](https://github.com/Rajib109/Social-Media-App/blob/main/assets/postshare.png?raw=true)
+
+### **User Profile Page**  :
+
+![profilePage](https://github.com/Rajib109/Social-Media-App/blob/main/assets/profilepage.png?raw=true)
+
+![upateInfo](https://github.com/Rajib109/Social-Media-App/blob/main/assets/userinfo.png?raw=true)
+
+![pp2](https://github.com/Rajib109/Social-Media-App/blob/main/assets/pp2.png?raw=true)
+
+![pp3](https://github.com/Rajib109/Social-Media-App/blob/main/assets/pp3.png?raw=true)
+
 
 #### **What you need to run this application:**
 
